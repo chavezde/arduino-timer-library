@@ -1,1 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
 
+Timer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+reset   KEYWORD2
+every   KEYWORD2
+pause   KEYWORD2
+resume  KEYWORD2
+updatePeriod KEYWORD2
+process KEYWORD2
